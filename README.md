@@ -40,7 +40,8 @@ Figure 3: Showing Value and Volume trends across time for India Wash and Care
 
 Figure 4: Showing value and volume changes on a trend for Unilever and its top competitors and brands
  Data Strategy Alignment: Data Strategy alignment in terms of below checkmarks was achieved: 
-	Improving Data Discoverability and Accessibility 
+		Cost saving by decommissioning siloed reports
+  Improving Data Discoverability and Accessibility 
 	Enhancing data quality and reducing silos
 	Optimizing resource utilization 
 	Ensuring data security and compliance 
